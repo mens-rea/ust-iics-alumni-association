@@ -55,7 +55,7 @@ var partJson = {
       },
       "move": {
         "enable": true,
-        "speed": 4.2,
+        "speed": 2.2,
         "direction": "top",
         "random": true,
         "straight": false,
