@@ -277,6 +277,10 @@ textarea {
 
 /* our custom styles */
 
+#intro-header {
+  font-size: 3rem;
+}
+
 #particles-js {
   position: relative;
   background: none;
