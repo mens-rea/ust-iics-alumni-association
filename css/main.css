@@ -277,6 +277,11 @@ textarea {
 
 /* our custom styles */
 
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
 #intro-header {
   font-size: 3rem;
 }
