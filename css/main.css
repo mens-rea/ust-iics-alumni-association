@@ -300,12 +300,24 @@ textarea {
   background-color: #f5f5f5;
 }
 
+.lead .btn {
+  min-width: 200px;
+}
+
 .hero-breaker {
   background-color: white;
+}
+
+h2 {
+  font-size: 1.4rem;
 }
 
 @media (min-width: 768px) {
   #particles-js {
     min-height: 600px;
+  }
+
+  h2 {
+    font-size: 1.8rem;
   }
 }
